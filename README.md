@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Jurand 👋
 
 <!--
-**jplaskota/jplaskota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on [Your Project Name]
+- 🌱 I’m currently learning [What You're Learning]
+- 👯 I’m looking to collaborate on [Projects or Areas of Interest]
+- 🤔 I’m looking for help with [Any Area You Need Help With]
+- 💬 Ask me about [Topics You're Knowledgeable About]
+- 📫 How to reach me: [Your Email or Other Contact Information]
+- ⚡ Fun fact: [A Fun Fact About Yourself]
 -->
+
+## My GitHub Stats
+
+![jplaskota's GitHub stats](https://github-readme-stats.vercel.app/api?username=jplaskota&show_icons=true&theme=radical)
+
+## Languages and Tools:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jplaskota&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
